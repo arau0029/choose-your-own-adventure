@@ -4,6 +4,4 @@ In front of you stood your future home: a cozy white house with a red front door
 
 What will you do?
 
-Option D
-
-Ignore The Cat 
+[Ignore the Cat](option-d.md) 
