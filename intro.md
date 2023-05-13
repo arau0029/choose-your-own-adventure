@@ -9,3 +9,5 @@ What will you do?
 [Throw a twig to play with the cat](option-b.md)
 
 [ Pet the cat but it ignores you ](option-c.md)
+
+[Ignore the Cat](option-d.md) 
