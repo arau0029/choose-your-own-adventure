@@ -7,3 +7,5 @@ What will you do?
 [Adopt the cat](option-a.md)
 
 [Throw a twig to play with the cat](option-b.md)
+
+[ Pet the cat but it ignores you ](option-c.md)
