@@ -11,3 +11,5 @@ What will you do?
 [ Pet the cat but it ignores you ](option-c.md)
 
 [Ignore the Cat](option-d.md) 
+
+[Feed the cat](option-e.md)
