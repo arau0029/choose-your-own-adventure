@@ -13,3 +13,5 @@ What will you do?
 [Ignore the Cat](option-d.md) 
 
 [Feed the cat](option-e.md)
+
+[Push the cat away with your feet](option-f.md)
