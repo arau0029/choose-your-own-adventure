@@ -11,3 +11,5 @@ What will you do?
 [ Pet the cat but it ignores you ](option-c.md)
 
 [Ignore the Cat](option-d.md) 
+
+[Push the cat away with your feet](option-f.md)
